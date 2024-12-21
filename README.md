@@ -10,10 +10,9 @@ Este é um simples aplicativo de lista de tarefas (To-Do List) desenvolvido com 
 
 ## Tecnologias Utilizadas
 
-- Adicionar novas tarefas
-- Marcar tarefas como concluídas
-- Excluir tarefas
-- Salvar a lista de tarefas no `localStorage`
+- HTML
+- CSS
+- JavaScript
 
 ## Estrutura do Projeto
 
@@ -29,6 +28,9 @@ Este é um simples aplicativo de lista de tarefas (To-Do List) desenvolvido com 
 4. Marque uma tarefa como concluída clicando no ícone de check.
 5. Exclua uma tarefa clicando no ícone de lixeira.
 
+## GitHub Pages
+
+Você pode acessar a aplicação através do seguinte link: [GitHub Pages](https://mrjack357.github.io/to-do-list/)
 
 ## Licença
 
