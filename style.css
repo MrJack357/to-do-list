@@ -85,3 +85,34 @@ img {
     background-color: #8fac55;
     text-decoration: line-through;
 }
+
+
+@media (max-width: 500px) {
+    .container {
+        width: 90%;
+    }
+
+    .input-task {
+        width: 100%;
+    }
+
+    .button-add-task {
+        width: 100%;
+        margin: 10px;
+        float: none;
+        display: block;
+        margin: 10px auto;
+    }
+
+    .list-task {
+        margin-top: 10px;
+    }
+
+    .task {
+        height: 40px;
+    }
+
+    img {
+        height: 20px;
+    }
+}
